@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556907427884.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "288392215",
+    "id" : "9EA6A9FD",
+    "lastKnownWriteTime" : 1556909176,
+    "last_content_update" : 1556909176895,
+    "path" : "~/School/Spring 2019/Stat 133/workout03/binomial/tests/testthat/test-check-args.R",
+    "project_path" : "tests/testthat/test-check-args.R",
+    "properties" : {
+        "cursorPosition" : "0,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

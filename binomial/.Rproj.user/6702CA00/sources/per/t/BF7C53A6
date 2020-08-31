@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556909099835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4131730817",
+    "id" : "BF7C53A6",
+    "lastKnownWriteTime" : 1556909967,
+    "last_content_update" : 1556909967226,
+    "path" : "~/School/Spring 2019/Stat 133/workout03/binomial/tests/testthat/test-aux-functions.R",
+    "project_path" : "tests/testthat/test-aux-functions.R",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "45",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
